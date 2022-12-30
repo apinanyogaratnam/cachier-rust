@@ -4,8 +4,3 @@
 .env.production
 volumes
 .DS_Store
-
-
-# Added by cargo
-
-/target
