@@ -5,7 +5,7 @@ authors = ["apinanyogaratnam"]
 description = "A library for connecting to the Cachier server"
 edition = "2021"
 license = "MIT"
-repository = "https://github.com/apinanyogaratnam/mathemizer"
+repository = "https://github.com/apinanyogaratnam/cachier-rust"
 readme = "README.md"
 keywords = ["cache", "cachier"]
 
