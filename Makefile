@@ -6,5 +6,5 @@ tag:
 
 workflow:
 	cargo build --release
-	make tag
 	cargo publish
+	make tag
