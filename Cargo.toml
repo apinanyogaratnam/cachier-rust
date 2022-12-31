@@ -1,6 +1,6 @@
 [package]
 name = "cachier-rust"
-version = "0.1.0-beta.0"
+version = "0.1.0-beta.1"
 authors = ["apinanyogaratnam"]
 description = "A library for connecting to the Cachier server"
 edition = "2021"
