@@ -1,3 +1,5 @@
+mod cachier;
+
 #[cfg(test)]
 mod tests {
     use super::*;
